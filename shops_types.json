@@ -1,0 +1,23 @@
+{
+  "Supermarket": {
+    "name": "Супермаркет",
+    "markerColor": "#005baa"
+  },
+  "Gipermarket": {
+    "name": "Гипермаркет",
+    "markerColor": "#005baa"
+  },
+  "Diskont": {
+    "name": "Дисконт",
+    "markerColor": "#ed1c24"
+  },
+  "Pro": {
+    "name": "PRO",
+    "markerColor": "#4d4d4d",
+    "circleColor": "#fdb913"
+  },
+  "OpeningSoon": {
+    "name": "Скоро открытие",
+    "markerColor": "#bfd730"
+  }
+}
